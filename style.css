@@ -3,3 +3,9 @@
 * {
   font-family: "Poppins", sans-serif;
 }
+
+.button {
+  border-radius: 3000px;
+  border-top-right-radius: 9999px;
+  border-bottom-left-radius: 9999px;
+}
