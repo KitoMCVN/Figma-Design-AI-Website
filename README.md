@@ -1,4 +1,4 @@
-![image](https://github.com/KitoMCVN/Figma-Design-AI-Website/assets/95675413/19ee867f-7f78-43d3-852e-cd554d548619)<p>I use this project to practice <b>TailwindCSS</b>.</p>
+<p>I use this project to practice <b>TailwindCSS</b>.</p>
 
 # Information
 <p><b>🧨 | Use:</b> HTML, CSS, TailwindCSS</p>
